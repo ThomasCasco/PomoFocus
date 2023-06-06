@@ -16,14 +16,9 @@ Bienvenido a la aplicación Pomodoro App, una herramienta sencilla pero eficaz p
 1. Clona este repositorio en tu máquina local.
 2. Asegúrate de tener [Node.js](https://nodejs.org) instalado.
 3. Abre la terminal y navega hasta el directorio del proyecto.
-4. Ejecuta el siguiente comando para instalar las dependencias: npm install
-Inicia la aplicación con el siguiente comando:
-bash
-npx expo start
-Abre el emulador o escanea el código QR en tu dispositivo físico para ejecutar la aplicación.
-
-
-Puedes copiar y pegar este fragmento de texto en tu archivo `README.md` para proporcionar instrucciones so
+4. Ejecuta el siguiente comando para instalar las dependencias: `npm install`
+5. Inicia la aplicación con el siguiente comando: `npx expo start`
+6. Abre el emulador o escanea el código QR en tu dispositivo físico para ejecutar la aplicación.
 
 ## Licencia
 Este proyecto está bajo mi autoria , puedes usarlo sin problemas para practicar , solo da crditos.
