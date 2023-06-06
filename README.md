@@ -17,7 +17,9 @@ Bienvenido a la aplicación Pomodoro App, una herramienta sencilla pero eficaz p
 2. Asegúrate de tener [Node.js](https://nodejs.org) instalado.
 3. Abre la terminal y navega hasta el directorio del proyecto.
 4. Ejecuta el siguiente comando para instalar las dependencias:
-5. ```bash npm install```
+5. ```bash
+npm install 
+```
 
 ## Licencia
 Este proyecto está bajo mi autoria , puedes usarlo sin problemas para practicar , solo da crditos.
